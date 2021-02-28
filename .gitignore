@@ -1,0 +1,7 @@
+
+*.[gz]
+*.pkl
+mnist.pkl
+data
+tmp_res
+程序备份
